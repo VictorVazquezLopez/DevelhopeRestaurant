@@ -1,4 +1,1 @@
 I can write here the menu
-Name: Primavera's Restaurant
-Type of menu: Meat and Pasta
-Drinks: water, beer, wine
